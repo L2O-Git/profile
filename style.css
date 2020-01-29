@@ -1,0 +1,53 @@
+h1, h2 {
+  color: #05dfd7;
+  font-family: 'Uncial Antiqua', cursive;
+  font-size: 30px;
+  line-height: 20px;
+}
+
+p {
+  font-size: 20px;
+  color: #ec7373;
+}
+
+a {
+  text-decoration: underline wavy #d8b5b5;
+}
+
+img {
+  border-radius: 30%;
+}
+
+.container {
+  background-color: #F7F9FC;
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+}
+
+.list-inlin li {
+  display: inline-block;
+  padding: 0px 20px;
+  list-style: none;
+  margin: 0px ;
+}
+
+.card {
+  background : #f3c1c1;
+  border : 3px;
+  border-radius : 50%;
+  padding: 28px;
+  box-shadow: 5px 3px red, -0.5em 0 0.4em magenta;
+}
+.card a{
+padding: 15px;
+}
+
+a:hover {
+  font-size: + 2px;
+  background-color: black;
+}
+
+span {
+ background-color: #ffe196;
+}
